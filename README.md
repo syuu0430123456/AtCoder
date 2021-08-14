@@ -17,3 +17,4 @@ Atcoder Beginner Selection
 7/24 ABC211参加　AB2完
 7/31 ABC212参加　AB2完
 8/8  ABC213参加　AB2完
+8/14 ABC214不参加
