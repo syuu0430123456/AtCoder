@@ -5,9 +5,6 @@ Python
 
 まずは茶色！
 2021/04/24~　
- 
-7月中にC問題をACする
-ABSを全部解ききる。例題も！(2021/07/21まで)
 典型90問解く
 
 Atcoder Beginner Selection
