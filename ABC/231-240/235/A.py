@@ -1,0 +1,5 @@
+t = input()
+a = int(t[0])
+b = int(t[1])
+c = int(t[2])
+print((a+b+c)*111)
